@@ -5,8 +5,10 @@
   - Pode ser usado como material de revisão por outras pessoas. Os arquivos estão bem documentados.
 
 
-## Ordem Para Ler:
-  1. GET/
+## Ordem Para Ler
+  - Comece ppr GET e siga.
+
+  - GET/
     1. Basics/
     2. ReturningObjects/
     3. EntityResponse/
