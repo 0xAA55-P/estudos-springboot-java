@@ -2,7 +2,13 @@
 
   - Repositório com alguns programas simples em Java usando SpringBoot.
   - Anotações e futuramente exercícios.
-  - Pode ser usado como material de revisão por outras pessoas, porém, a forma com que os arquivos estão documentados é de uma maneira que eu entendo.
+  - Pode ser usado como material de revisão por outras pessoas. Os arquivos estão bem documentados.
+
+
+## Ordem Para Ler:
+  1. Basics/
+  2. ReturningObjects/
+  3. EntityResponse/
 
 ## Requisitos
   - Java >= 21
