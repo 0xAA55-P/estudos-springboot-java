@@ -6,12 +6,13 @@
 
 
 ## Ordem Para Ler
-  - Comece ppr GET e siga.
+  - Comece por GET e siga.
 
   - GET/
     1. Basics/
     2. ReturningObjects/
     3. EntityResponse/
+    4. FilterByName/
 
 ## Requisitos
   - Java >= 21
