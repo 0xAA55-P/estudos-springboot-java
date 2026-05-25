@@ -12,9 +12,8 @@
     1. Basics/
     2. ReturningObjects/
     3. EntityResponse/
-    4. FilterByName/
-      1. PathVariable
-      2. RequestParam
+    4. FilterByName/PathVariable/
+    5. FilterByName/RequestParam/
 
 ## Requisitos
   - Java >= 21
