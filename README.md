@@ -6,9 +6,10 @@
 
 
 ## Ordem Para Ler:
-  1. Basics/
-  2. ReturningObjects/
-  3. EntityResponse/
+  1. GET/
+    1. Basics/
+    2. ReturningObjects/
+    3. EntityResponse/
 
 ## Requisitos
   - Java >= 21
