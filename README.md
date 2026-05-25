@@ -9,11 +9,11 @@
   - Comece por GET e siga.
 
   - GET/
-    1. Basics/
-    2. ReturningObjects/
-    3. EntityResponse/
-    4. FilterByName/PathVariable/
-    5. FilterByName/RequestParam/
+  1. Basics/
+  2. ReturningObjects/
+  3. EntityResponse/
+  4. FilterByName/PathVariable/
+  5. FilterByName/RequestParam/
 
 ## Requisitos
   - Java >= 21
