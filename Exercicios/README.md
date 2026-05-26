@@ -15,3 +15,10 @@
   - Buscar contato por nome via
   - Filtrar por cidade
   - Endpoint que retorne apenas os emails de todos os contatos (sem os outros dados)
+
+## POST
+
+1. Gerenciador de Tarefas Simples.
+  - Permita adicionar Tarefa
+  - Permita listar Tarefa
+  - Pode melhorar no futuro quando chegarmos em put/patch e/ou delete :3
