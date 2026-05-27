@@ -12,7 +12,7 @@
 
 3. Crie uma lista estática de contatos (nome, telefone, email, cidade). Implemente:
   - Listar todos os contatos
-  - Buscar contato por nome via
+  - Buscar contato por nome
   - Filtrar por cidade
   - Endpoint que retorne apenas os emails de todos os contatos (sem os outros dados)
 
@@ -22,3 +22,9 @@
   - Permita adicionar Tarefa
   - Permita listar Tarefa
   - Pode melhorar no futuro quando chegarmos em put/patch e/ou delete :3
+
+2. Crie um endpoint que receba um produto (nome, preço, categoria, quantidade em estoque) e o adicione a uma lista em memória. Tambem:
+  - Um GET para listar todos os produtos cadastrados
+  - Um GET para buscar por categoria
+
+  - O endpoint POST deve retornar o produto cadastrado com um campo disponivel (true se quantidade > 0, false caso contrário), que deve ser calculado automaticamente
