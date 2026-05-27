@@ -17,6 +17,13 @@
       <li>FilterByName/RequestParam/</li>
     </ol>
 
+  - POST/
+    <ol type="1">
+      <li>Basics/</li>
+      <li>SaveUserToList/</li>
+      <li>Validation/</li>
+    </ol>
+
 ## Requisitos
   - Java >= 21
 
