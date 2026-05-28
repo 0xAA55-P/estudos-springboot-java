@@ -28,3 +28,5 @@
   - Um GET para buscar por categoria
 
   - O endpoint POST deve retornar o produto cadastrado com um campo disponivel (true se quantidade > 0, false caso contrário), que deve ser calculado automaticamente
+
+3. Refaça o exercicio anterior após ler ESTRUTURA/
