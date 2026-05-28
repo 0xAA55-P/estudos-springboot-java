@@ -7,6 +7,7 @@
 
 ## Ordem Para Ler
   - Comece por GET e siga.
+  - OBS: Também resolva os exercicios.
 
   - GET/
     <ol type="1">
