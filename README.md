@@ -30,6 +30,11 @@
       <li>App/</li>
     </ol>
 
+  - PUT/
+    <ol type="1">
+      <li>App/</li>
+    </ol>
+
 ## Requisitos
   - Java >= 21
 

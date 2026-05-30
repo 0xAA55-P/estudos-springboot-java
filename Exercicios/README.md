@@ -30,4 +30,11 @@
   - O endpoint POST deve retornar o produto cadastrado com um campo disponivel (true se quantidade > 0, false caso contrário), que deve ser calculado automaticamente
 
 3. Refaça o exercicio anterior após ler ESTRUTURA/
+
 4. Refaça o exercicio 2 do GET, mas agora permita adicionar novos livros. Use o estilo de pastas recém aprendido.
+
+## PUT
+
+1. Recrie o gerenciador de contatos dos exercicios GET, mas agora:
+  - Adicione uma rota para adicionar um contato
+  - Adicione uma rota para editar um contato
