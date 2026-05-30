@@ -36,7 +36,9 @@
     </ol>
 
   - PERSISTENCIA (tambem vemos DELETE lá)/
-  
+    <ol type="1">
+      <li>App/</li>
+    </ol>
 
 ## Requisitos
   - Java >= 21
